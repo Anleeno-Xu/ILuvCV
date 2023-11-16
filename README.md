@@ -22,6 +22,7 @@ Fabulous papers for CV field.
   + [Denoising](https://github.com/Anleeno-Xu/ILuvCV#denosing)
   + [Feature Matching](https://github.com/Anleeno-Xu/ILuvCV#feature-matching)
   + [HDR](https://github.com/Anleeno-Xu/ILuvCV#hdr)
++ [2.6. Image Composition](https://github.com/Anleeno-Xu/ILuvCV#26-image-composition)
 
 ## 1. Summary of Conference Papers
 
@@ -150,3 +151,10 @@ Fabulous papers for CV field.
 1. (IPOL 2021) An Analysis and Implementation of the HDR+ Burst Denoising Method
    + paper: [HDR+](https://doi.org/10.5201/ipol.2021.336)
    + code: [python](https://github.com/amonod/hdrplus-python), [C++](https://github.com/timothybrooks/hdr-plus/)
+
+### 2.6. Image Composition
+#### Survey
+1. (Arxiv 2021) Making Images Real Again: A Comprehensive Survey on Deep Image Composition
+   + paper: https://arxiv.org/abs/2106.14490
+   + link: https://github.com/bcmi/Awesome-Image-Composition
+
